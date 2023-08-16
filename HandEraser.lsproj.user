@@ -1,0 +1,321 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1690960934120414:9896719",
+                "1691381645994350:716879",
+                "1691389617687782:200128",
+                "1691393949462963:86235",
+                "1691465006294879:461257",
+                "1691465281220233:614013",
+                "1691551418155555:1144624",
+                "1691560028512974:4223136",
+                "1691567228918515:1346086",
+                "1691567256575614:1363367",
+                "1691737200906370:9596373"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1691393799898190:54562"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Avenir Black"
+                ],
+                [
+                    "Background"
+                ],
+                [
+                    "Behavior"
+                ],
+                [
+                    "Cma seq bg"
+                ],
+                [
+                    "Cma seq fog"
+                ],
+                [
+                    "Color Correction"
+                ],
+                [
+                    "Glow"
+                ],
+                [
+                    "LOGO"
+                ],
+                [
+                    "Logo"
+                ],
+                [
+                    "Mask Camera Render Target"
+                ],
+                [
+                    "Materials",
+                    "Brush"
+                ],
+                [
+                    "Materials",
+                    "Brush negative"
+                ],
+                [
+                    "Materials",
+                    "Halftone"
+                ],
+                [
+                    "Materials",
+                    "PaintBrush"
+                ],
+                [
+                    "Materials",
+                    "Post Effect"
+                ],
+                [
+                    "Materials",
+                    "TextureWIthMask"
+                ],
+                [
+                    "Meshes"
+                ],
+                [
+                    "Meshes",
+                    "Plane"
+                ],
+                [
+                    "Portrait Background Segmentation"
+                ],
+                [
+                    "Post Effects Render Target"
+                ],
+                [
+                    "Random Image Script"
+                ],
+                [
+                    "Scripts",
+                    "AttachToObjectTracking"
+                ],
+                [
+                    "Scripts",
+                    "Behavior"
+                ],
+                [
+                    "Scripts",
+                    "TouchController"
+                ],
+                [
+                    "Scripts",
+                    "segmentation controller"
+                ],
+                [
+                    "Text randomi"
+                ],
+                [
+                    "Textures",
+                    "Beauty"
+                ],
+                [
+                    "Textures",
+                    "FadeSphere White"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture"
+                ],
+                [
+                    "Textures",
+                    "echopark_diff"
+                ],
+                [
+                    "Textures",
+                    "echopark_spec"
+                ],
+                [
+                    "Tween"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials",
+                    "Image Unlit 2"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials",
+                    "TweenBoxDiffuse 2"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials",
+                    "TweenBoxDiffuse_Alt 2"
+                ],
+                [
+                    "Tween",
+                    "ExampleResources [REMOVE_ME]",
+                    "Materials",
+                    "TweenSphereDiffuse 2"
+                ],
+                [
+                    "Tween",
+                    "Visual Scripting Custom Nodes",
+                    "All Tween Nodes 2"
+                ],
+                [
+                    "bottle"
+                ],
+                [
+                    "fog"
+                ],
+                [
+                    "glow"
+                ],
+                [
+                    "text1"
+                ],
+                [
+                    "text2"
+                ],
+                [
+                    "text3"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "1517446348227994:84813",
+                "1569450165881248:59308",
+                "1569450232596157:61617",
+                "1569450414057003:68189",
+                "1569608404385554:21133",
+                "1690960934107003:9896435",
+                "1690960934107755:9896439",
+                "1691550320147989:224084"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1690878842181039:1600725": "C:/Works/Dove/fog.jpeg",
+            "1690937117149897:3097": "C:/Works/Potential Project/Dove/HandEraser/Public/Script.js",
+            "1690937117170102:3109": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/ExampleResources [REMOVE_ME]/ExampleTweenValueScript.js",
+            "1690937120560596:3273": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/ExampleResources [REMOVE_ME]/Meshes/TweenBox.mesh",
+            "1690937120597496:3284": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/ExampleResources [REMOVE_ME]/Meshes/TweenSphere.mesh",
+            "1690937120659833:3299": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/ExampleResources [REMOVE_ME]/Textures/TweenImageTextures/Image.png",
+            "1690937120685540:3309": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Tween.js",
+            "1690937120709980:3317": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/TweenManager.js",
+            "1690937120744752:3329": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/TweenTypes/Legacy/TweenBillboard [DEPRECATED].js",
+            "1690937120799339:3337": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/TweenTypes/TweenAlpha.js",
+            "1690937120859762:3345": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/TweenTypes/TweenChain.js",
+            "1690937120891449:3353": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/TweenTypes/TweenColor.js",
+            "1690937120945942:3361": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/TweenTypes/TweenScreenTransform.js",
+            "1690937121006317:3369": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/TweenTypes/TweenTransform.js",
+            "1690937121066140:3377": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/TweenTypes/TweenValue.js",
+            "1690937121154543:3388": "C:/Users/steph/AppData/Local/Snap/Lens Studio/cache/temp/StudioXYoZwhcqHcUG//system//emergencyFiles/emergencyGraph.lsscript",
+            "1690937121207618:3400": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Basic Tweens/MinimalTween.js",
+            "1690937121212135:3408": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Basic Tweens/TweenNumber.js",
+            "1690937121226643:3416": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Basic Tweens/TweenVec3.js",
+            "1690937121238334:3426": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Color/TweenColorFrom.js",
+            "1690937121256690:3434": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Color/TweenColorFromTo.js",
+            "1690937121269780:3442": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Color/TweenColorTo.js",
+            "1690937121280820:3452": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/BackFunc.js",
+            "1690937121286639:3460": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/BounceFunc.js",
+            "1690937121293811:3468": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/CircularFunc.js",
+            "1690937121302073:3476": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/CubicFunc.js",
+            "1690937121311016:3484": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/ElasticFunc.js",
+            "1690937121319654:3492": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/ExponentialFunc.js",
+            "1690937121325478:3500": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/LinearFunc.js",
+            "1690937121332999:3508": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/QuadraticFunc.js",
+            "1690937121340636:3516": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/QuarticFunc.js",
+            "1690937121351877:3524": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/QuinticFunc.js",
+            "1690937121355536:3532": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/SinusoidalFunc.js",
+            "1690937121360333:3542": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Helpers/RetrieveTween.js",
+            "1690937121369134:3550": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Helpers/StoreTween.js",
+            "1690937121373643:3560": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/RemoveTween.js",
+            "1690937121382770:3568": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenChainTo.js",
+            "1690937121394039:3576": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenOnComplete.js",
+            "1690937121402724:3584": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenSetEasing.js",
+            "1690937121410202:3592": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenSetOnUpdate.js",
+            "1690937121415762:3600": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenSetRepeat.js",
+            "1690937121423797:3608": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenSetTo.js",
+            "1690937121439772:3616": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenStart.js",
+            "1690937121453476:3626": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Position/TweenPosFrom.js",
+            "1690937121464470:3634": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Position/TweenPosFromTo.js",
+            "1690937121474333:3642": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Position/TweenPosTo.js",
+            "1690937121491210:3652": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Rotation/TweenRotFromEuler.js",
+            "1690937121500387:3660": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Rotation/TweenRotFromQuat.js",
+            "1690937121509722:3668": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Rotation/TweenRotFromToEuler.js",
+            "1690937121517311:3676": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Rotation/TweenRotFromToQuat.js",
+            "1690937121525764:3684": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Rotation/TweenRotToEuler.js",
+            "1690937121536360:3692": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Rotation/TweenRotToQuat.js",
+            "1690937121550455:3702": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Scale/TweenScaleFrom.js",
+            "1690937121563791:3710": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Scale/TweenScaleFromTo.js",
+            "1690937121570267:3718": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/Tween Nodes/Scale/TweenScaleTo.js",
+            "1690937121579437:3728": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/GetGenericTweenScriptValue.js",
+            "1690937121584739:3736": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/IsTweenScriptPaused.js",
+            "1690937121595899:3744": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/IsTweenScriptPlaying.js",
+            "1690937121602096:3752": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/PauseTweenScript.js",
+            "1690937121609117:3760": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/ResetTweenScript.js",
+            "1690937121617224:3768": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/ResetTweenScriptObject.js",
+            "1690937121630451:3776": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/ResumeTweenScript.js",
+            "1690937121640011:3784": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/StartTweenScript.js",
+            "1690937121649233:3792": "C:/Works/Potential Project/Dove/HandEraser/Public/Tween/Visual Scripting Custom Nodes/TweenManager Nodes/StopTweenScript.js",
+            "1690960933901752:9896328": "C:/Users/steph/AppData/Local/Snap/Lens Studio/cache/temp/StudioXYoZwhcqHcUG//system//emergencyFiles/emergencyGraph.lsscript",
+            "1691381599629312:694442": "C:/Works/Dove/bottle.png",
+            "1691394473856584:275068": "C:/Works/Potential Project/Dove/image_randomizer/random image template fixed/Public/Random Image Required Assets/Random Image Script.js",
+            "1691394682698179:344513": "C:/Works/Dove/text3.png",
+            "1691394682728307:344536": "C:/Works/Dove/text2.png",
+            "1691394682749747:344551": "C:/Works/Dove/text1.png",
+            "1691395722967539:736483": "C:/Users/steph/AppData/Local/Snap/Lens Studio/cache/temp/StudiolnFZYxDdXiqa//system//emergencyFiles/emergencyJs.js",
+            "1691550077560161:139143": "C:/Works/Dove/Background.jpg",
+            "1691558086990380:2946437": "C:/Users/steph/AppData/Local/Snap/Lens Studio/cache/temp/StudioPfiqoHHgexsI//system//emergencyFiles/emergencyJpg.jpg",
+            "1691631399866435:40501": "C:/Works/Potential Project/Dove/segmentation controller.js",
+            "1691645232527848:833782": "C:/Works/Dove/HandEraser/Public/Default Textures/empty.png",
+            "1691645232542186:833791": "C:/Works/Dove/HandEraser/Public/Default Textures/white.png",
+            "1691645232552476:833802": "C:/Works/Dove/HandEraser/Public/Example Textures [REMOVE_ME]/heart.pvr",
+            "1691645232560160:833810": "C:/Works/Dove/HandEraser/Public/Example Textures [REMOVE_ME]/old_paper_post_effect.png",
+            "1691661038223201:7084447": "C:/Works/Dove/glow.png",
+            "1691725302996935:3588492": "C:/Users/steph/Downloads/Font/Avenir Black.ttf",
+            "1691726617691223:4335580": "C:/Works/Dove/LOGO.png",
+            "1691738103056296:26806": "C:/Users/steph/AppData/Local/Snap/Lens Studio/cache/temp/StudioPeyExstHlQnr//system//emergencyFiles/emergencyJpg.jpg",
+            "1691738103540520:26915": "C:/Users/steph/AppData/Local/Snap/Lens Studio/cache/temp/StudioPeyExstHlQnr//system//emergencyFiles/emergencyJpg.jpg",
+            "1691738103774612:26991": "C:/Users/steph/AppData/Local/Snap/Lens Studio/cache/temp/StudioPeyExstHlQnr//system//emergencyFiles/emergencyJpg.jpg"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1691560028490233:4222769"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}
